@@ -1,4 +1,4 @@
-# assessingcollaboration (mainly retrieved from BMC,2014)
+# Assessing Collaboration (mainly retrieved from BMC,2014)
 ## General principal of evaluation 
 1. It begins with educational values.  
 2. good assessment recognizes learning as multi-dimensional, integrated and revealed in performance over time.   
@@ -20,25 +20,28 @@ two ways:
 * **Student self-evaluation** 
 Reflection 
 Screencaputre
-![six common roles](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/BMC%20six%20common%20group%20roles.png)
+![self eva1](https://github.com/linyuunc/assessingcollaboration/blob/master/BMC%20possible%20self-evaluation%20questions.png)
 and a form 
-![six common roles](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/BMC%20six%20common%20group%20roles.png)
+![self eva 2](https://github.com/linyuunc/assessingcollaboration/blob/master/BMC%20student%20self-evaluation%20form.png)
 
 * **Student Peer Evaluation**    
 used to assess group process at the group and individual levels 
 teachers also use it for content (calibrated peer reviews)  
 faculty need to devote time to instructing students on how to effectively assess the product or presentation 
-Screen caputure 
-![six common roles](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/BMC%20six%20common%20group%20roles.png)
+
+![Peer eva](https://github.com/linyuunc/assessingcollaboration/blob/master/BMC%20Peer%20Evaluation%20.png)
+
 * **Group Evaluation 
+
+![Group eva](https://github.com/linyuunc/assessingcollaboration/blob/master/BMC%20Sample%20Group%20Evaluation%20form.png)
 
 ### 3. Decide wheter to evaluate for formative or summative purposes 
 
 ### 4. General guidelines for grading collaborative work 
 
 walvoord and Anderson 1998 
-Screen capture
-![six common roles](https://github.com/linyuunc/Role-assignments-and-group-composition/blob/master/BMC%20six%20common%20group%20roles.png) 
+
+![w and a 1998](https://github.com/linyuunc/assessingcollaboration/blob/master/walvoord%20and%20Anderson%201998%20.png) 
 
 ### 5. Group Individuals and Groups (three models)
 * Model 1: Assign Individual Grades
@@ -46,7 +49,8 @@ Screen capture
 * Model 2: Assign Group grades 
 (Assign a collectivey earned grade to each member. 
 Drawback: Individuals are not held accountable. Kagan 1995 thinks group grades is unfair and unwise because of five reasons.)
-Screencapture
+![Kagan](https://github.com/linyuunc/assessingcollaboration/blob/master/kagan%20group%20grades%20unfair.png)
+
 * Model 3:the combination of individual and group grades 
 (75% individual and 25% group grade for high-stakes assignment)
 (25% individual and 75% group grade for low-stakes assignment)
@@ -57,5 +61,9 @@ CoLT: Dialogue journals
 ## Conclusion: There's a natural tension between collaborative learning goals and having an instructor assign a final grade. 
 
 Grading in the online classroom. 
-Screencapture
 
+![Online grading](https://github.com/linyuunc/assessingcollaboration/blob/master/BMC%20Grading%20in%20the%20online%20classrooms.png)
+
+**Linyu reflections**: 
+1. There are still a lot that need to be done for assessing the collaboration process. (Starting from foreign language tele-communication process might be a good starting point)   
+2. Individuals are held accountable for high-stake assignment, which in a way undermines the importance of collabroation. 
